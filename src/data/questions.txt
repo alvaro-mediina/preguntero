@@ -1,0 +1,982 @@
+﻿Con respecto a la radiación retrodispersa, señale lo que corresponda:
+a.Mejora el contraste de la imagen radiográfica.
+b.Se relaciona con el número atómico de la sustancia.
+c.Es generada en el efecto compton por los rayos dispersados hacia atrás. ✅
+d.No conlleva riesgos de exposición al paciente.
+e.Se genera en el proceso de absorción fotoeléctrica.
+
+
+¿Qué propiedad de los rayos X es la encargada de producir la imagen latente?
+a.Poder penetrante
+b.Efecto Luminiscente
+c.Efecto fotográfico ✅
+
+
+Las técnicas de exposición con altos Kvp proporcionan:
+a.Gran escala de contraste ✅
+b.Mayor nitidez radiográfica
+c.Mayor densidad óptica
+
+
+Los equipos utilizados en radioterapia que trabajan con haces de electrones muy energéticos son:
+a.Simuladores
+b.Bombas de Co
+c.Gamma knife
+d.Reactores
+e.Aceleradores ✅
+
+
+Señale la opción correcta con respecto a la magnitud Exposición (X)
+a.Relaciona la cantidad de pares iónicos generados  por la radiosensibilidad de los tejidos y órganos.
+b.Se puede aplicar a cualquier tipo de radiación en un medio material.
+c.Valora la cantidad de iones creados por Kg de masa o cm3 de aire.
+d.Expresa la cantidad de carga eléctrica de los electrones que se generan en una masa de aire ✅
+e.Ofrece información sobre los daños de la radiación  producidos en un paciente.
+
+
+Con respecto a la densidad óptica, señale lo que no corresponda:
+a.Una película sobreexpuesta tiene una densidad óptica alta.
+b.Los factores que la modifican directamente son el Kvp y la DFP. ✅
+c.Para modificarla de manera visible, se debe cambiar el mA en un 30% o más.
+d.Tiene un valor numérico que va desde 3 o más hasta 0,2 o menos.
+e.Para reducirla, debe disminuir el valor del mA.
+
+
+En el tubo de rayos, los electrones proyectil son los que :
+a. Salen desde el filamento catódico e impactan con  los electrones del átomo blanco. ✅
+b. Impactan en el punto focal catódico y generan los rayos característicos.
+c. Ocupan distintos niveles por el llenado de vacancia.
+d. Se van dispersando y generan el calor producido por efecto termoiónico.
+e. Salen emitidos del filamento anódico debido a la DDP establecida.
+
+
+Señale lo que no corresponda con respecto al proceso de atenuación:
+a.Se debe a los fenómenos de absorción y dispersión que sufre el haz.
+b.Depende de la calidad y cantidad de los fotones que componen el haz.
+c.Es la disminución progresiva de los fotones que componen un haz.
+d.Es directamente proporcional a la densidad de las estructuras atravesadas.
+e.Se relaciona de manera directa con el contraste de la imagen radiográfica ✅
+
+
+La tabla que contiene los límites de seguridad dentro de los cuales puede trabajar el tubo de rayos es la:
+a.De flujo calorífico.
+b.De enfriamiento.
+c.De generación calorífica.
+d.Curva de carga. ✅
+e.De posicionamiento.
+
+
+Con respecto a la radiación alfa señale el concepto CORRECTO.
+a.Son partículas relativamente grandes que provienen de radionucleidos pesados. ✅
+b.Son partículas relativamente grandes con una carga 2+ que viajan a una velocidad cercana a la de la luz.
+c.Son partículas pesadas sin carga que alcanzan a recorrer grandes distancias.
+d.Son partículas pesadas generadas artificialmente en un acelerador de partículas.
+e.Son partículas pesadas capaces de atravesar gruesos espesores de material.
+
+
+Cuál de los siguientes factores es regulado por la temperatura del filamento?
+a.La cantidad de electrones que forman la nube de carga. ✅
+b.La corriente que ingresa al circuito catódico.
+c.El funcionamiento correcto del filamento fino.
+d.La velocidad de rotación del ánodo.
+e.La velocidad de los electrones proyectil.
+
+
+Señale la opción correcta con respecto al Kvp.
+a.Con un elevado Kvp se mejora el contraste de la imagen radiográfica.
+b.El Kvp controla la calidad y la penetración de un haz de radiación ✅
+c.El Kvp controla la densidad  y nitidez de la imagen radiográfica
+d.El Kvp se modifica según la Ley del Inverso del cuadrado.
+e.El Kvp controla la cantidad y la intensidad de la radiación emitida
+
+
+El Generador de Alta Tensión de un equipo tiene como función:
+a.Transformar la corriente continua en trifásica.
+b.Transformar la corriente contínua en alterna.
+c.Regular los movimientos del equipo de rayos.
+d.Transformar la velocidad de la corriente.
+e.Suministrar la energía eléctrica al tubo de rayos ✅
+
+
+Con respecto a los medios de contraste, señale el concepto INCORRECTO
+a.El Yodo y el Bario poseen la mayor absorción de los rayos X.
+b.Los hidrosolubles pueden ser iónicos y no iónicos.
+c.Deben ser inertes y eliminarse del organismo en forma rápida.
+d.Los llamados positivos son sustancias con elevado Z.
+e.Los llamados negativos provocan imágenes más blancas. ✅
+
+
+Con respecto a las características o propiedades del tungsteno, señale lo que no corresponda:
+a.Posee un elevado punto de fusión.
+b.Es más eficiente para la producción de rayos.
+c.Puede soportar temperaturas elevadas.
+d.Es mejor conductor del calor que el Cu. ✅
+e.Tiene un elevado número atómico.
+
+
+Según la física clásica, una partícula:
+a.Es una entidad puntual con masa.✅
+b.No siempre posee  una masa concreta.
+c.Siempre tiene masa y su posición es incierta.
+d.Es una entidad con masa y energía.
+e.No tiene una posición concreta en cada instante.
+
+
+¿Cuál de las siguientes son las OEM que poseen una longitud de onda larga?
+a.Ultravioletas
+b.Gamma
+c.Infrarrojas
+d.Radiofrecuencia✅
+e.Microondas
+
+
+Con respecto a la ampolla señale el concepto CORRECTO
+a.Se halla recubierta por un líquido nafténico que concentra el calor generado.
+b.Posee una envoltura metálica que permite la salida de la radiación al exterior. 
+c.El actual modelo de ampolla es un precursor del modelo de Crookes.
+d.Está constituida por un cristal termoexpandible que absorbe el calor generado.
+e.Cuando envejece se produce la evaporación del W, que altera las propiedades eléctricas.✅
+
+
+Los denominados RX característicos se generan por:
+a.La expulsión de electrones que poseen elevada Eb y la transforman en Ec.
+b.La brusca desaceleración que sufren los electrones al llegar a los últimos  niveles del átomo.
+c.La ionización que sufren los átomos al expulsar electrones de las últimas capas con elevada Eb.
+d.La ionización que sufren los átomos al expulsar electrones de los primeros niveles de energía.✅
+e.La brusca desaceleración de electrones al llegar cerca del núcleo atómico
+
+
+Un espectro de emisión se desvía hacia la derecha cuando:
+a.Se incrementa el tiempo de exposición 
+b.Se reduce el Kvp
+c.Se eleva la tensión✅
+d.Se aumenta la cantidad de rayos
+e.Se aumenta la corriente del filamento.
+
+
+La angulación entre 6º a 20º que posee el ánodo se denomina:
+a.Principio del foco lineal.✅
+b.Principio del punto focal real.
+c.Principio del foco térmico.
+d.Principio del foco angular.
+e.Principio del foco efectivo
+
+
+La emisión termoiónica es:
+a.La expulsión de los electrones de las capas internas de los átomos del foco térmico.
+b.La expulsión de los electrones de las capas externas de los átomos del filamento.✅
+c.La expulsión incandescente de los electrones de la copa focalizadora.
+d.La expulsión de los electrones de las capas internas de los átomos del filamento.
+e.La expulsión de los electrones de las capas externas de los átomos del foco térmico.
+
+
+Señale el concepto INCORRECTO, con respecto a las OEM.
+a.Todas las OEM se desplazan en el vacío a la misma velocidad.
+b.El número de veces que una OEM oscila en un tiempo mínimo se denomina Frecuencia.✅
+c.Las OEM presentan una variación sinusoidal de los campos que la componen.
+d.La frecuencia y longitud de onda de una OEM tienen una relación directa con la velocidad a la que se desplaza.
+e.Ninguna de las OEM necesitan de un soporte material para su desplazamiento.
+
+
+Señale en ¿cuál de las siguientes interacciones culombianas se produce la conservación de la energía cinética y el movimiento?
+a.Colisión inelástica por ionización. 
+b.Colisión radiativa
+c.Colisión elástica✅
+d.Colisión Inelástica por excitación
+e.Colisión de frenado
+
+
+Señale cuál de los siguientes procesos  se produce en una colisión inelástica.
+a.Cesión de energía en forma de energía cinética.
+b.Modificación de la estructura atómica del medio absorbente.✅
+c.Desviación de la trayectoria de la partícula.
+d.Conservación de la cantidad de movimiento.
+e.Conservación de la cantidad de energía.
+
+
+Con respecto a la Teleterapia, señale el concepto que no corresponda:
+a.Utiliza la radiación de un equipo generador ubicado a cierta distancia.
+b.Es una técnica radioterapeutica que utiliza radioisótopos emisores de radiación muy energética.✅
+c.Utiliza filtros para reducir la dosis de radiación cutánea que recibe el paciente.
+d.Antiguamente utilizaba equipos de rayos X de bajas energías.
+e.Utiliza equipos de megavoltaje como la bomba de Co o aceleradores lineales.
+
+
+Teniendo en cuenta las propiedades de los rayos X, señale el concepto correcto.
+a.La luminiscencia se produce por la ionización de las capas externas.
+b.Los cambios químicos producidos en emulsiones fotográficas son generadas por el poder de penetración.
+c.Los rayos X sólo pueden atravesar sustancias sólidas.
+d.La fosforescencia es un efecto luminiscente que no tiene retardo.
+e.Los efectos biológicos que producen los rayos X, es debido a su poder ionizante.✅
+
+
+Los limitadores positivos del haz son:
+a.Diafragmas luminosos.
+b.Colimadores manuales.
+c.Diafragmas de apertura variable.
+d.Colimadores automáticos.✅
+e.Cilindros intercambiables
+
+
+La energía de cada fotón de frenado en un haz de rayos se grafica en:
+a.Un espectro de colisión
+b.Un espectro de disociación.
+c.Un espectro característico
+d.Un espectro continuo✅
+e.Un espectro discreto
+
+
+Señala una propiedad del acelerador lineal para tratamiento:
+a.La camilla se moviliza buscando la mejor posición.
+b.La potencia del equipo oscila entre 6 a 12 MeV.✅
+c.Las sesiones son de 20 minutos aproximadamente.
+d.La exposición del paciente resulta de mayor tiempo.
+e.Afecta a los tejidos sanos circundantes al tumor.
+
+
+Una desventaja del principio del foco lineal resulta ser:
+a.El efecto anódico
+b.La radiación de frenado
+c.La radiación fuera de foco✅
+
+
+De acuerdo al fenómeno luminiscente de fosforescencia, indique la opción correcta:
+a.Se genera por un estado de excitación singlete.
+b.Se produce por la ionización de electrones de las capas externas.
+c.Se produce por electrones desapareados con el mismo sentido de giro.✅
+d.Se produce en un tiempo menor a 10-9 segundos.
+e.Se produce por electrones desapareados con distinto sentido de giro
+
+
+La radiación de microondas es:
+a.Ionizante, óptica.
+b.No ionizante, electromagnética.✅
+c.No ionizantes, corpuscular.
+d.Ionizante, corpuscular.
+e.Ionizante, electromagnética
+
+
+¿Cuál de las siguientes es una ventaja de la técnica radiográfica con Kvp fijo?
+a.Reducir la energía de la radiación.
+b.Permitir mayores tiempos de exposición.
+c.Producir una escala de contraste mayor.✅
+d.Disminuir la borrosidad cinética.
+e.Aumentar la nitidez de la imagen.
+
+
+La radioterapia que aplica fuentes de radiación no encapsuladas dentro del organismo recibe el nombre de:
+a.Intersticial
+b.Endocavitaria
+c.Metabólica✅
+d.Interna
+e.De contacto
+
+
+Señale cuál de las siguientes es una característica de la dispersión Rayleigh
+a.Se produce desviación del fotón incidente con aumento de su energía.
+b.Se produce absorción del rayo incidente sin cambio de su energía.
+c.Se produce desviación del fotón emergente sin cambio en su energía✅
+d.Se produce desviación del rayo incidente sin cambios en su energía inicial.
+e.Se produce desviación del fotón incidente y disminución de su energía.
+
+
+Con respecto a las radiaciones ópticas señale el concepto INCORRECTO
+a.Los rayos infrarrojos son OEM no ionizantes cuya longitud de onda es menor que la de la luz visible.✅
+b.La luz UV de corta longitud de onda puede ser absorbida por la capa de ozono
+c.Todos los tipos de radiaciones ópticas, pueden provocar calor  y efectos fotoquímicos en el cuerpo humano
+d.Los  RUV pueden causar envejecimiento, cáncer, y alterar el sistema inmunológico.
+e.Las lámparas germicidas y de luz negra se consideran fuentes artificiales de RUV
+
+
+La radiación remanente incidente es directamente proporcional a:
+a.El factor de mejora de contraste del antidifusor.
+b.La selectividad del antidifusor
+c.El factor Bucky✅
+d.La altura de las laminillas plomadas del antidifusor.
+e.El rendimiento del antidifusor.
+
+
+¿Cuál de los siguientes factores hace que haya más probabilidad de interacción fotoeléctrica?
+a.Elevada energía de los fotoelectrones.
+b.Menor número Z de la sustancia.
+c.Choque del fotón con electrones externos.
+d.Energía del fotón incidente mayor a la Eb.✅
+e.Mayor número másico de la sustancia.
+
+
+¿Cuál de los siguientes circuitos alimenta al cátodo del tubo radiógeno?
+a.De Alto voltaje. 
+b.De potencia trifásica. 
+c.De Rectificación completa. 
+d.De Bajo voltaje ✅
+e.De Rectificación de semionda. 
+
+
+El índice de rejilla relaciona: 
+a.La altura de la grilla con el grosor del septo y la lámina.
+b.El grosor de los septos con la altura de los mismos. 
+c.La altura de la grilla con el grosor del material radiopaco. 
+d.El grosor de los septos con las láminas radiolúcidas. 
+e.La altura de la grilla con el grosor del material intermedio. ✅
+
+
+Los implantes con alta dosis se realizan en procedimientos de: 
+a.Aceleradores lineales. 
+b.Braquiterapia. ✅
+c.Radioterapia metabólica. 
+d.Teleterapia.
+e.Radioterapia con Co60 
+
+
+EL tipo de braquiterapia en la que el material radiactivo se coloca en la luz de algunos 
+órganos, recibe el nombre de: 
+a.Superficial 
+b.Intersticial 
+c.Endocavitaria 
+d.Intraepitelial 
+e.Intraluminal ✅
+
+
+La Tabla de Flujo radiográfico permite: 
+a. Utilizar las técnicas seguras para el tubo. ✅
+b. Disminuir los tiempos de exposición y así prolongar la vida útil del tubo. 
+c. Calcular los valores exponenciales para la obtención de la radiografía. 
+d. Modificar los valores exponenciales mínimos necesarios para una radiografía. 
+e. Determinar las HU generadas por el tubo al hacer un disparo. 
+
+
+Con respecto a las fuentes encapsuladas, señale lo correcto: 
+a. Son fuentes generadoras de rayos X y Gamma, electrones y neutrones. 
+b. Son generadas en aparatos debidamente sellados como la Bomba de Co60 
+c. Son sustancias radiactivas incorporadas en materiales sólidos inactivos y resistentes. ✅
+d. Se utilizan en todos los estudios morfológicos de la Medicina Nuclear. 
+e. Contiene sustancias radiactivas que pueden ser extraídas de su contenedor.
+
+
+¿Con cuál de los siguientes factores, se relaciona el tamaño del punto focal? 
+a.La Ec de los electrones proyectil. ✅
+b.La capacidad de penetración de los rayos X. 
+c.El tamaño de la imagen radiográfica. 
+d.La DO final de la imagen radiográfica. 
+e.La cantidad de radiación producida 
+
+
+Indique: ¿cuál es una característica distintiva de una imagen sobreexpuesta? 
+a.Se realizó a una DFP superior a la convencional. 
+b.Posee una escala de contraste muy corta 
+c.Posee una escala de contraste muy larga. 
+d.Tiene una densidad óptica igual o superior a 3 ✅
+e.Su densidad óptica es igual o inferior a 0,2 
+
+
+¿Cuál de los siguientes factores no se ve influenciado por el mA? 
+a.Numero de rayos x 
+b.Energía cinética de los electrones ✅
+c.Tiempo de exposición. 
+d.Corriente alimentadora del filamento. 
+e.Dosis del paciente. 
+
+
+La producción de calor dentro del tubo es proporcional a: 
+a.La efectividad de la copa focalizadora. 
+b.El aumento de la corriente y la tensión. ✅
+c.El calentamiento que alcance el filamento. 
+d.La velocidad de rotación del ánodo. 
+e.El material del foco térmico. 
+
+
+A mayor valor de frecuencia de una OEM: 
+a.Menor es su energía y su longitud de onda. 
+b.Mayor es su energía y su longitud de onda. 
+c.Menor es su energía y mayor su longitud de onda. 
+d.Mayor es su energía y menor su velocidad de propagación. 
+e.Mayor es su energía y menor su longitud de onda. ✅
+
+
+La aplicación de radiación, basada en su acción bactericida, recibe el nombre de: 
+a.Metabolizació 
+b.Esterilización ✅
+c.Polimerización 
+d.Reducción de patógeno 
+e.Contención 
+
+
+¿A qué elemento del tubo radiógeno reemplazan los nanotubos de Carbono? 
+a.Al motor de inducción. 
+b.A la copa de enfoque 
+c.A los filamentos. ✅
+d.Al foco térmico. 
+e.Al plato anódico.
+
+
+Indique: ¿qué tipo de tabla radiográfica usaría para un paciente pediátrico y por qué? 
+a.La de Kvp fijo, porque genera menor dosis en el paciente. ✅
+b.La de Kvp variable porque disminuye el tiempo de exposición. 
+c.La de Kvp variable con GAP, porque reduce la energía de la radiación. 
+d.La de Kvp fijo porque mejora el contraste de la imagen. 
+e.La de Kvp variable, porque genera menor dosis en el paciente. 
+
+
+¿Qué cantidad de electrones y HU se generan al realizar una radiografía de abdomen que 
+necesita 78 Kv, 300 mA y 0,04 seg?. 
+a.7,49 x 10 19 electrones   - 1310,40 HU  .. 7,49x10 22 e 1310,40 HU
+b.7,48 x 10 16 electrones.   -   1310,40 HU ✅
+c.1,05 x 1017 electrones   -   1310,40 HU 
+d.5,83 x 10 18 electrones   -   936 HU 
+e.5,09 x 10 21 electrones   -   936 HU 
+
+
+¿Qué utilizamos para poder calcular en promedio la dosis de radiación correcta que deben 
+recibir los órganos 
+a.Dosímetros 
+b.Usamos a un paciente para saber la dosis de cada órgano  
+c. No es posible saberlo 
+d.Tenemos en cuenta la radiación de los órganos superficiales como la tiroides y la mama 
+e.Fantomas ✅
+
+
+Una exposición trimestral genera 6,23 x 10 13 pi/Kg, calcular su equivalente en R y la Dosis Equivalente anual del paciente que la recibe, expresada en Sv.
+a.1,55 x 10-3 Sv   - 3,87 x 10-2 R✅
+b.3,87 x 10-3 Sv   -   1,55 x 10-1 R
+c.1,55 x 10-1 Sv   -   3,87 x 10-2 R
+d.3,87 x 10-2 Sv   -  1,55 x 10-3 R
+e.3,87 x 10-2 R   -   155 x 10-3 Sv
+
+
+Los tubos controlados por rejilla se utilizan en estudios que:
+a.Requieren una exposición única con tiempos indefinidos.
+b.No necesitan exposiciones específicas ni tiempos prefijados.
+c.Requieren exposiciones múltiples con tiempos precisos.✅
+d.Requieren exposiciones múltiples en tiempos indefinidos.
+e.Requieren una exposición única con tiempo preciso.
+
+
+El Kv para un grosor anatómico de 13 cm., en un equipo con GAF resulta ser de 49.
+Verdadero✅
+Falso
+
+
+Una OEM posee una Frecuencia de 4,75 x 1010 MHz. Determinar su Masa y su Energía expresada en Joules.
+a.M= 3,5 x 10-31 Kg.          E= 3,15 x 10-14 J.
+b.M= 4,5 x 10-31 Kg.          E= 3,5 x 10-15 J.
+c.M= 3,5 x 10-34 Kg.          E= 3,15 x 10-17 J.✅
+d.M= 3,5 x 10-28 Kg.          E= 3,15 x 10-11 J.
+e.M= 3,15 x 10-34 Kg.          E= 3,5 x 10-15 J.
+
+
+¿Cuál de las siguientes características corresponde a la radiación de microondas?
+a.Poseen longitudes de onda desde los 400 hasta los 15 nm.
+b.Se utilizan en equipos de visión nocturna.
+c.Tienen una frecuencia y longitud de onda muy cortas.
+d.Poseen baja temperatura si son de origen natural✅
+e.Se sitúan en el espectro por encima de los infrarrojos.
+
+
+Los rayos infrarrojos son:
+OEM de menor longitud de onda que la luz visible.
+OEM de baja longitud de onda que puede ser absorbida por la capa de ozono.
+OEM de elevada energía cinética usados en equipos de visión nocturna.
+OEM cuya longitud de onda es menor que los de microondas.✅
+OEM utilizados para la irradiación de alimentos
+
+
+La expulsión de un electrón en un átomo puede deberse a la interacción del mismo con:
+a.Una onda de radiofrecuencia
+b.Una radiación óptica del espectro visible
+c.Un campo electromagnético
+d.Un rayo infrarrojo
+e.Un fotón gamma✅
+
+
+Los tubos controlados por rejilla se utilizan en estudios que:
+a.Requieren una exposición única con tiempos indefinidos.
+b.No necesitan exposiciones específicas ni tiempos prefijados.
+c.Requieren exposiciones múltiples con tiempos precisos.✅
+d. Requieren exposiciones múltiples en tiempos indefinidos.
+e.Requieren una exposición única con tiempo preciso.
+
+
+Una OEM posee una Frecuencia de 4,75 x 1010 MHz. Determinar su Masa y su Energía expresada en Joules.
+a.M= 3,5 x 10-31 Kg.          E= 3,15 x 10-14 J.
+b.M= 4,5 x 10-31 Kg.          E= 3,5 x 10-15 J.
+c.M= 3,5 x 10-34 Kg.          E= 3,15 x 10-17 J.✅
+d.M= 3,5 x 10-28 Kg.          E= 3,15 x 10-11 J.
+e.M= 3,15 x 10-34 Kg.          E= 3,5 x 10-15 J.
+
+
+La radiación remanente incidente es directamente proporcional a:
+a.La altura de las laminillas plomadas del antidifusor.
+b.La selectividad del antidifusor
+c.El rendimiento del antidifusor.
+d.El factor Bucky✅
+e.El factor de mejora de contraste del antidifusor.
+
+
+Determinar la equivalencia en el SI de una exposición que generó 5,38 x 10 7 Pi/cm3
+a. 6,71 x 10 -6 C/Kg✅
+b. 2,6 x 10 -2 R
+c. 2,6 x 10 -2 C/K/Kg
+d. 2,58 x 10 -4 C/Kg
+
+
+El rendimiento de un antidifusor valora el contenido de plomo que tiene el mismo.
+Verdadero✅
+Falso
+
+
+El rendimiento de un antidifusor valora:
+a. La cantidad de radiación dispersa absorbida.✅
+b. El factor de mejora del contraste.
+c. La dosis de radiación recibida por el paciente.
+d. La cantidad de radiación dispersa transmitida.
+
+
+Los rayos infrarrojos son:
+OEM de menor longitud de onda que la luz visible.
+OEM de baja longitud de onda que puede ser absorbida por la capa de ozono.
+OEM de elevada energía cinética usados en equipos de visión nocturna.
+OEM cuya longitud de onda es menor que los de microondas.✅
+OEM utilizados para la irradiación de alimento
+
+
+El índice de una grilla valora el grosor del material de absorción que ésta contiene.
+Verdadero
+Falso✅
+
+
+En una imagen es posible distinguir estructuras contiguas solo si ambas tienen distintos coeficientes lineales de dispersión
+Verdadero
+Falso✅
+
+
+En el efecto fotoeléctrico se genera radiación característica que se comporta de manera similar a la radiación dispersa.
+Verdadero
+Falso✅
+
+
+La frecuencia de un antidifusor se relaciona de manera directa con la capacidad de absorción del mismo
+Verdadero
+Falso✅
+
+
+El Bucky mural es:
+a.Un accesorio con el que cuentan todos los estativos.
+b.Un accesorio utilizado para absorber radiación dispersa.✅
+c.Una mesa plano vertical utilizada para diversos tipos de radiografías
+d.Un dispositivo que se adosa a cualquier mesa móvil.
+e.Un dispositivo usado exclusivamente para las radiografías de tórax
+
+
+¿Cuáles de los siguientes conjuntos de factores son los que se consideran principales en la exposición radiográfica?
+a.Energía, mA, filtrado, DFP.
+b.Kvp, densidad, punto focal, tiempo.
+c.Tensión, DFP, punto focal, tiempo.
+d.Kv, corriente, tiempo, DFP.✅
+e.Kv, corriente, filtrado, tiempo
+
+
+Cuál de las siguientes no es una característica del contraste de la imagen?
+a.Se produce por las diferencias de atenuación que tienen los tejidos.
+b.Si el contraste es elevado, posee pocas escalas de grises.
+c.Para realzarlo en la visualización de los tejidos blandos, debemos elevar el Kv.✅
+d.Para reducirlo, es necesario aumentar los valores de Kvp.
+e.Permite visualizar los bordes de una estructura.
+
+
+Teniendo en cuenta las propiedades de las OEM señale el concepto correcto:
+a.Al duplicar la distancia entre el foco emisor y la superficie a irradiar la intensidad de la radiación disminuye a la mitad.
+b.Los fotones de todas las OEM interaccionan con la materia de la misma manera.
+c.Para valorar el daño biológico de las radiaciones ionizantes se tiene en cuenta la ley de Grotthus-Draper✅
+d.Si una superficie irradiada se halla paralela al haz de radiación, recibe mayor intensidad de la misma.
+e.Según la física cuántica un quantum es la unidad de energía emitida por todas las radiaciones ionizantes
+
+
+Qué propiedad de  los rayos X se aprovecha en los Intensificadores de imágenes?
+a.Efecto luminiscente.✅
+b.Efecto de disociación.
+c.Efecto biológico.
+d.Efecto Ionizante.
+e.Efecto químico
+
+
+Las sondas nucleares permiten:
+a.Determinar composición y características de los suelos.✅
+b.Detectar y analizar contaminantes ambientales.
+c.Medir los recursos hídricos subterráneos.
+d.Comprobar la calidad de piezas industriales.
+e.Propulsar naves espaciales
+
+
+Con respecto a los medios de contraste, señale el concepto CORRECTO.
+a.Los llamados negativos son sustancias con elevado Z.
+b.Los hidrosolubles pueden ser iónicos y gaseosos.
+c.Deben ser reactivos y eliminarse del organismo en forma rápida. (Deben ser biológicamente inertes (no reactivos) y sí, deben eliminarse rápidamente)
+d.Los llamados negativos provocan imágenes más blancas.
+e.El Yodo y el Bario poseen la mayor absorción de los rayos X.✅
+
+
+Con respecto a la colisión culombiana elástica, señale el concepto correcto:
+a.Genera iones positivos o negativos.
+b.No produce en el medio alteración atómica.
+c.No mantiene la energía cinética.
+d.Produce disociación en los átomos del medio.
+e.Conserva la cantidad de movimiento.✅
+
+
+Con respecto a la Teoría del Quantum, señale el concepto incorrecto:
+a.La emisión de energía de una OEM, nunca se realiza de manera continua.
+b.Los quantum son pequeños paquetes de energía que se comportan como corpúsculos.
+c.Los quantum son las unidades de energía absorbidas por la radiación electromagnética.✅
+d.Los fotones de rayos X son creados a la velocidad de la luz y sólo pueden existir a esa velocidad.
+e.La radiación es emitida o absorbida en pequeñas cantidades.
+
+
+Cuál de los siguientes conceptos corresponde a la dispersión coherente?
+a.El rayo incidente sufre desviación de su trayectoria.✅
+b.Produce radiación retrodispersa a 180° de deflexión.
+c.Se produce por rayos X de energía moderada.
+d.Es una interacción del tipo inelástica.
+e.Genera radiación característica dispersa.
+
+
+Con respecto a las mesas de estudios, señale el concepto correcto:
+a.El plano de Fowler puede realizarse en la mesa horizontal simple.
+b.Solamente en una mesa basculante es posible movilizar el plano de examen.
+c.La mesa plano-vertical se controla y manipula a través de un control remoto.
+d.En un clinoscopio la bandeja porta-chasis es autocentrante.✅
+e.Por encima del plano de examen de cualquier tipo de examen se encuentra el Conjunto Potterr-Bucky.
+
+
+El tipo de colisión en la que no se conserva la energía cinética recibe el nombre de:
+a.Elástica por ionización
+b.Radiativa por excitación.
+c.Característica
+d.Inelástica✅
+e.Radiativa
+
+
+El factor exponencial regulado por la tensión establecida dentro del tubo, resulta ser el: 
+a.Tiempo
+b.Calentamiento del filamento
+c.mA
+d.Factor de la distancia
+e.Kv✅
+
+
+Indique cuál de estos eventos no ocurre en una colisión de tipo elástica.
+a.Conservación de la cantidad de energía.
+b.Alteración atómica del medio✅
+c.Desviación de la trayectoria de la partícula.
+d.Cesión de energía en forma de energía cinética.
+e.Conservación de la cantidad de movimiento.
+
+
+Con respecto a los filamentos, señale el concepto correcto:
+a.El filamento fino se utiliza para técnicas con órganos en movimiento.
+b.El filamento grueso se utiliza para obtener imágenes de alta resolución.
+c.El filamento fino permite efectuar disparos en un tiempo menor.
+d.El filamento grueso se utiliza para técnicas que requieren mayor potencia.✅
+e.El filamento grueso aumenta el riesgo de penumbra cinética
+
+
+Con cuál de los siguientes factores, se relaciona el tamaño del punto focal?
+a.La capacidad de penetración de los rayos X.
+b.La cantidad de radiación producida
+c.La DO final de la imagen radiográfica.
+d.El tamaño de la imagen radiográfica.
+e.La Ec de los electrones proyectil✅
+
+
+En el proceso llamado Llenado de Vacancia, se genera:
+a.Radiación de fuga.
+b.Radiación de frenado.
+c.Radiación fuera de foco
+d.Radiación característica.✅
+e.Radiación dispersa
+
+
+Hallar las HU  cantidad de electrones circulantes al realizar 3 radiografías en el quirófano de tibia-peroné, sabiendo que se utilizaron 62 Kv, 300mA y 0,12" para cada una.
+a.6696 HU               2,25 x 1017 electrones
+b.9374,4 HU              2,25 x 1017 electrones
+c.3124,8 HU               2,25 x 1017 electrones
+d.9374,4 HU               6,74 x 1017 electrones
+e.6696 HU                   6,74 x 1017 electrones.✅
+
+
+Con respecto al filamento fino indique lo correcto:
+a.Se puede utilizar para órganos en movimiento.
+b.Soporta mayor potencia.
+c.Disminuye la penumbra cinética de la imagen.
+d.Requiere tiempos cortos de exposición.
+e.Ofrece mejor calidad de la imagen✅
+
+
+En el tubo de rayos, los electrones proyectil son los que :
+a.ocupan distintos niveles por el llenado de vacancia.
+b.salen emitidos del filamento anódico debido a la DDP establecida.
+c.impactan en el punto focal catódico y generan los rayos característicos.
+d.salen desde el filamento catódico e impactan con  los electrones del átomo blanco.✅
+e.se van dispersando y generan el calor producido por efecto termoiónico.
+
+
+Señale cuál de las siguientes es una característica de la radiación dispersa
+a.Se relaciona de manera directa con la intensidad de la radiación
+b.Es proporcional a la tensión y el tamaño de la zona a radiografiar.✅
+c.Se relaciona directamente con el efecto fotoelectrico generado en el organismo.
+d.Tiene una relación inversa con el espesor de zona. (Falso, a mayor espesor, mayor dispersión)
+e.Es importante para mejorar el contraste de la imagen radiográfica
+
+
+En los tubos de ánodo fijo, el mismo se construye de:
+a.Wolframio y Renio
+b.Wolframio y grafito
+c.Molibdeno y Tungsteno
+d.Wolframio y Torio
+e.Tungsteno y Cobre✅
+
+
+Cuál de los siguientes factores no se ve influenciado por el Kvp?
+a.Calidad del haz.
+b.Penetrabilidad del haz
+c.Energía del haz.
+d.Escala de contraste.
+e.Tiempo de exposición.✅
+
+
+El hábito corporal de un paciente de pequeño tamaño y frágil se denomina:
+a.Asténico✅
+b.Hipoesténico
+c.Hiperesténico
+
+
+El proceso que aplica radiaciones para obtener materiales con mayor resistencia a la oxidación se denomina:
+a.Oxidificación
+b.Cauterización
+c.Endurecimiento✅
+d.Polimerización
+e.Esterilización
+
+
+Con respecto a la producción de rayos X, señale lo que NO corresponde.
+a.Los rayos x llamados de frenado surgen por ionización de las capas externas  de los átomos.✅
+b.Todos los rayos generados resultan invisibles y sus longitudes de onda son diferentes.
+c.Se generan artificialmente dentro de un tubo al vacío, siendo sus energías variables.
+d.Los llamados característicos se originan por el proceso de llenado de vacancia.
+e.Se producen en el interior de un tubo de rayos catódicos por emisión de electrones.
+
+
+Cuál de las siguientes no es característica propia de los septos de una rejilla o antidifusor?
+a.Absorben la radiación dispersa.
+b.Tienen elevada capacidad de absorción.
+c.Transmiten la radiación primaria al receptor de imagen.✅
+d.Son extremadamente delgados.
+e.Son de material radiopaco.
+
+
+Señale lo incorrecto con respecto al aceite refrigerante:
+a.Se halla recubriendo la ampolla termoresistente.
+b.Es un líquido nafténico con elevado punto de fluidez.✅
+c.Posee una elevada estabilidad a la oxidación.
+d.Es un líquido que funciona como aislante dieléctrico.
+e.Cumple la función de amortiguador térmico.
+
+
+Con respecto a los rayos X, marque la opción que contenga una característica de los mismos
+a.Es una radiación ionizante de tipo corpuscular
+b.Pueden ser absorbidos por una hoja de papel
+c.Se comportan como una onda simple
+d. Surgen dentro de un tubo radioactivo
+e.Tienen longitud de onda corta✅
+
+
+Señale lo que no corresponda con respecto al proceso de atenuación:
+a.Se relaciona de manera directa con el contraste de la imagen radiográfica.✅
+b.Depende de la calidad y cantidad de los fotones que componen el haz.
+c.Es la disminución progresiva de los fotones que componen un haz.
+d.Es directamente proporcional a la densidad de las estructuras atravesadas.
+e.Se debe a los fenómenos de absorción y dispersión que sufre el haz.
+
+
+La energia de un foton es de 7,45 x 10-14 Joules, calcular su longitud de onda y su frecuencia..
+a.2,68 x 10 -12 m.      1,12 x 1017 KHz
+b.2,68 x 10-12 m.      1,12 x 1017 Hz✅
+c.3,74 x 10 -19 m.     1, 12 x 1010 Hz.
+d.1,67 x 107 m.      1,12 x 1017 Hz
+
+
+El coeficiente de atenuación lineal se refiere a:
+a.La proporción de energía que transfieren los fotones en cada centímetro de tejido recorrido.
+b.La proporción de fotones atenuados o no que permanecen en el haz primario.
+c.La proporción de fotones que se dispersan en cada centímetro de tejido recorrido
+d.La proporción de rayos remanentes que van a recorrer cada centímetro de tejido.
+e.La proporción de fotones que se absorbe en cada centímetro de tejido recorrido.✅
+
+
+El Generador de Alta Tensión de un equipo tiene como función:
+a.Transformar la corriente continua en trifásica.
+b.Regular los movimientos del equipo de rayos.
+c.Transformar la velocidad de la corriente.
+d.Suministrar la energía eléctrica al tubo de rayos.✅
+e.Transformar la corriente contínua en alterna.
+
+
+¿Cuál de los siguientes circuitos alimenta al cátodo del tubo radiógeno?
+a.De Bajo voltaje
+b.De Rectificación de semionda.
+c. De Rectificación completa.
+d.De potencia trifásica.
+e.De Alto voltaje.
+
+
+El efecto luminiscente de los rayos x se produce por la:
+a.Ionizacion de las capas externas del atomo.
+b.Ionización de las capas internas del átomo
+c.Excitación de las capas externas del átomo.✅
+d.Excitación de las capas internas del átomo.
+
+
+La unidad de Actividad Curie es la equivalencia de:
+a.La cantidad de dps realizadas por 1 gramo de U238 en 1 segundo.
+b.La cantidad de dps realizadas por 1 gramo de Ra224 en 1 segundo.
+c.La cantidad de dps realizadas por 1 gramo de Ra226 en 1 segundo.✅
+d.La cantidad de dps realizadas por 1 gramo de Rn222 en 1 segundo.
+e.La cantidad de dps realizadas por 1 gramo de U235 en 1 segundo.
+
+
+Con respecto al Kv, señale el concepto incorrecto:
+a.Al reducir el Kv s produce una disminución en el contraste de la imagen.✅
+b.Existe una relación inversa entre el Kvp y la absorción diferencial.
+c.A mayor valor de Kv, maor penetrabilidad en la materia.
+d.Al aumentar el Kvp se genera mayor cantidad de radiación dispersa.
+e.Es el control primario de la calidad del haz de radiación.
+
+
+Para modificar la energía de los rayos X producidos debe cambiarse:
+a.La distancia al receptor de imagen
+b.El calentamiento del filamento.
+c.La corriente de alimentación del filamento
+d.La DDP establecida dentro del tubo✅
+e.El tamaño del punto focal.
+
+
+¿Cuál de los siguientes factores no se ve influenciado por el mA?
+a.Tiempo de exposición.
+b.Energía cinética de los electrones✅
+c.Dosis del paciente.
+d.Numero de rayos x
+e.Corriente alimentadora del filamento.
+
+
+Un fotón posee una masa de 3,75 x 10-29 g. Determinar su frecuencia y longitud de onda.
+a.LO= 3,38 x 10-15 m            F= 2,11 x 1015 Hz
+b.LO= 3,38 x 10-11 m            F= 2,11 x 1018 Hz
+c.LO= 5,89 x 10-11 m            F= 5,09 x 1015 Hz
+d.LO= 5,89 x 10-11 m            F= 5,09 x 1018 Hz✅
+e.LO= 5,89 x 10-8 m            F= 2,11 x 1018 Hz
+
+
+La radioterapia que aplica fuentes de radiación no encapsuladas dentro del organismo recibe el nombre de:
+a.Intersticial
+b.Endocavitaria
+c.Metabólica✅
+d.Interna
+e.De contacto
+
+
+Si en una técnica con Kvp variable obtengo un valor de 60 para el mismo, sabiendo que el grosor a radiografiar es de 15 cm, significa que estoy utilizando un generador trifásico.
+Verdadero
+Falso✅
+
+
+Para obtener el Kvp de comienzo, en una técnica de Kvp variable, con equipo trifásico, la fórmula a aplicar es:
+a.2 x grosor anatómico + 25✅
+b.2 x grosor anatómico + 28
+c.2 x grosor anatómico + 20
+d.2 x grosor anatómico + 30
+e.2 x grosor anatómico + 23
+
+
+La nube de carga espacial se origina por:
+a.La DDP establecida entre el cátodo y el ánodo.
+b.La aceleración brusca de los electrones hacia el filamento.
+c.El calentamiento del filamento catódico.✅
+d.El calentamiento del punto focal hacia donde se dirigen los electrones.
+e.El calentamiento de la copa focalizadora
+
+
+Con respecto al mA, señale el concepto correcto:
+a.Un cambio en sus valores, no modifica la energía cinética de los electrones.✅
+b.Su cantidad se relaciona con el tipo de generador utilizado por el equipo.
+c.Su modificación no genera cambios en la cantidad de electrones proyectiles.
+d.Su rango determina la calidad de la radiación emitida.
+e.Su aumento provoca disminución de la dosis al paciente (Un aumento del mA incrementa la dosis al paciente, no la disminuye.)
+
+
+¿Con qué tipo de emisores se realizan los procedimientos terapeuticos con radionucleidos?
+a.Gamma de alta energía✅
+b.Alfa de alta energía
+c.Beta de baja energía 
+d.Gamma de baja energía
+e.Beta de alta energía
+
+
+Indique cuál es el material con el que se fabrican las barras de control de un reactor nuclear:
+a.Grafito
+b.Carburo de boro✅
+c.Plomo
+d.Hormigón
+e.Acero inoxidable
+
+
+Teniendo en cuenta el tiempo de exposición radiográfica, señale la premisa correcta:
+a.El tiempo y los miliamperios mantienen una relación inversa.
+b.Un sistema monofásico, permite tiempos de exposición menores a 8 ms.
+c.La reducción del tiempo, evita la pérdida de contraste de la imagen.
+d.La tensión y el tiempo se utilizan combinados como mAs.
+e.Al aumentar el tiempo, se incrementa la densidad óptica de la imagen.✅
+
+
+La absorción fotoeléctrica es
+a.Inversamente proporcional al espesor de los tejidos.
+b.Proporcional a la intensidad de la radiación
+c.Proporcional al Numero Z 3 de la estructura✅
+d.Proporcional a las estructuras radiotransparentes de la zona a radiografiar
+e.Proporcional a la penetración de los fotones
+
+
+La copa de enfoque se encarga de:
+a.Concentrar los rayos hacia el punto focal
+b.Disipar los electrones hacia el aceite refrigerante.
+c.Concentrar los rayos hacia la salida de la ventana
+d.Dispersar los electrones hacia el punto focal
+e.Concentrar los electrones hacia el foco térmico✅
+
+
+¿Cuál de los siguientes conceptos corresponde a la radiación neutrónica?
+a.Puede ser detenida por gruesos absorbentes de aluminio o metacrilato.
+b.Puede ser utilizada en radiología industrial.✅
+c.Tiene menor capacidad de penetración que los rayos X
+d.Está formada por partículas libres originadas en un acelerador de partículas.
+e.Su utilización dentro de un reactor nuclear genera reacciones en cadena descontroladas.
+¿Cuál de los siguientes factores influye en la efectividad de la copa focalizadora?
+a.Corriente que alimenta el filamento✅
+b.Distancia existente entre el cátodo y el ánodo.
+c.Tiempo de exposición determinado por el cronómetro.
+d.Velocidad de los electrones proyectil
+e.Tensión establecida entre cátodo y ánodo
+
+
+Con respecto al equipo de Bomba de Co, señale el concepto incorrecto:
+a.Es una máquina fiable y de fácil mantenimiento.
+b.El Co60 se halla en forma de pastilla dentro de un blindaje adecuado.
+c.Dirige la radiación a través de un orificio ubicado en el cabezal.
+d.Acelera la radiación hacia el lugar preciso de la irradiación.✅
+e.Su mayor desventaja es la vida media pequeña.
+
+
+Con respecto a las fuentes encapsuladas, señale lo correcto:
+a.Contiene sustancias radiactivas que pueden ser extraídas de su contenedor.
+b.Son sustancias radiactivas incorporadas en materiales sólidos inactivos y resistentes.✅
+c.Se utilizan en todos los estudios morfológicos de la Medicina Nuclear.
+d.Son generadas en aparatos debidamente sellados como la Bomba de Co60
+e.Son fuentes generadoras de rayos X y Gamma, electrones y neutrones
