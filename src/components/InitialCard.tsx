@@ -35,7 +35,7 @@ function InitialCard({ Question }: InitialCardProps) {
 
 
     return (
-    <div className="flex-column">
+    <div className="flex-col">
         <Card className="h-auto flex
                         flex-col
                         justify-center
@@ -64,7 +64,7 @@ function InitialCard({ Question }: InitialCardProps) {
                 className="flex flex-col space-y-2"
             >
                 {answers.map(({ letter, text }) => (
-                <div key={letter} className="flex items-center space-x-3">
+                <div key={`${letter}-${text}`} className="flex items-center space-x-3">
                     <RadioGroupItem value={letter} id={`answer-${letter}`}
                             className="w-5 h-5 rounded-full border-2
                                     border-gray-300 cursor-pointer
@@ -97,10 +97,19 @@ function InitialCard({ Question }: InitialCardProps) {
             )}
             
             {submitted && (
-                <p className={`mt-4 font-bold ${selected === correct_answer ? "text-green-400" : "text-red-400"}`}>
-                    {selected === correct_answer ? "¡Respuesta correcta! ✅" : "Respuesta incorrecta ❌"}
-                </p>
-                    )}
+            <div className="mt-4 font-bold">
+                {selected === correct_answer ? (
+                <p className="text-green-400">¡Respuesta correcta! ✅</p>
+                ) : (
+                <div className="flex flex-col">
+                    <p className="flex justify-center text-red-400">Respuesta incorrecta ❌</p>
+                    <p className="text-yellow-300 mt-1">
+                    La respuesta correcta es: <strong>{correct_answer}. {answers.find(a => a.letter === correct_answer)?.text}</strong>
+                    </p>
+                </div>
+                )}
+            </div>
+            )}
         </div>
     </div>
 )}

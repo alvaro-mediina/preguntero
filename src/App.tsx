@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div className="flex flex-col justify-center items-center min-w-screen min-h-screen bg-[#2c3e50] p-4 space-y-6">
-      <InitialCard Question={questions[currentIndex]} />
+      <InitialCard key={currentIndex} Question={questions[currentIndex]} />
       
       <button
         onClick={changeQuestion}
