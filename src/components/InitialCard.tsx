@@ -5,7 +5,7 @@ import {
   CardHeader,
   CardTitle,
 } from "./ui/Card";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { RadioGroup, RadioGroupItem } from "@radix-ui/react-radio-group";
 import { Label } from "@radix-ui/react-label";
 
@@ -26,6 +26,13 @@ function InitialCard({ Question }: InitialCardProps) {
             setSubmitted(true);
         }
     };
+
+    useEffect(() => {
+        setSelected(null);
+        setSubmitted(false);
+        setError("");
+    }, [Question]);
+
 
     return (
     <div className="flex-column">
