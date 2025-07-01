@@ -4,6 +4,10 @@ export type Questions = {
     correct_answer: string;
 };
 
+export type InitialCardProps = {
+  Question: Questions
+}
+
 export function parseQuestions(text: string): Questions[] {
   // Dividir por bloques separados por una o más líneas vacías
   const rawBlocks = text.split(/\n\s*\n+/);

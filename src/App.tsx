@@ -1,14 +1,17 @@
-import { Button } from "@/components/ui/button";
+import { useState } from "react";
+import { type Questions, parseQuestions } from "./models/Questions";
+import questionsRaw from "./data/questions.txt?raw";
+import InitialCard from "./components/InitialCard";
 
 function App() {
+
+  const [questions] = useState<Questions[]>(()=> parseQuestions(questionsRaw))
+  
+  console.log(questions.length)
+
   return (
-    <div className="p-6">
-      <h1 className="text-3xl font-bold underline mb-4">
-        Mi app con Shadcn + Tailwind
-      </h1>
-      <div className="flex min-h-svh flex-col items-center justify-center">
-        <Button>Click me</Button>
-      </div>
+    <div className="flex justify-center items-center min-w-screen min-h-screen bg-[#2c3e50]">
+      <InitialCard Question={questions[0]}/>
     </div>
   );
 }
