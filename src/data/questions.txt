@@ -473,11 +473,11 @@ e.Se sitúan en el espectro por encima de los infrarrojos.
 
 
 Los rayos infrarrojos son:
-OEM de menor longitud de onda que la luz visible.
-OEM de baja longitud de onda que puede ser absorbida por la capa de ozono.
-OEM de elevada energía cinética usados en equipos de visión nocturna.
-OEM cuya longitud de onda es menor que los de microondas.✅
-OEM utilizados para la irradiación de alimentos
+a.OEM de menor longitud de onda que la luz visible.
+b.OEM de baja longitud de onda que puede ser absorbida por la capa de ozono.
+c.OEM de elevada energía cinética usados en equipos de visión nocturna.
+d.OEM cuya longitud de onda es menor que los de microondas.✅
+e.OEM utilizados para la irradiación de alimentos
 
 
 La expulsión de un electrón en un átomo puede deberse a la interacción del mismo con:
@@ -515,7 +515,7 @@ e.El factor de mejora de contraste del antidifusor.
 Determinar la equivalencia en el SI de una exposición que generó 5,38 x 10 7 Pi/cm3
 a. 6,71 x 10 -6 C/Kg✅
 b. 2,6 x 10 -2 R
-c. 2,6 x 10 -2 C/K/Kg
+c. 2,6 x 10 -2 C/K
 d. 2,58 x 10 -4 C/Kg
 
 
@@ -530,13 +530,6 @@ b. El factor de mejora del contraste.
 c. La dosis de radiación recibida por el paciente.
 d. La cantidad de radiación dispersa transmitida.
 
-
-Los rayos infrarrojos son:
-OEM de menor longitud de onda que la luz visible.
-OEM de baja longitud de onda que puede ser absorbida por la capa de ozono.
-OEM de elevada energía cinética usados en equipos de visión nocturna.
-OEM cuya longitud de onda es menor que los de microondas.✅
-OEM utilizados para la irradiación de alimento
 
 
 El índice de una grilla valora el grosor del material de absorción que ésta contiene.
@@ -821,7 +814,7 @@ e.Transformar la corriente contínua en alterna.
 
 
 ¿Cuál de los siguientes circuitos alimenta al cátodo del tubo radiógeno?
-a.De Bajo voltaje
+a.De Bajo voltaje✅
 b.De Rectificación de semionda.
 c. De Rectificación completa.
 d.De potencia trifásica.
@@ -958,6 +951,8 @@ b.Puede ser utilizada en radiología industrial.✅
 c.Tiene menor capacidad de penetración que los rayos X
 d.Está formada por partículas libres originadas en un acelerador de partículas.
 e.Su utilización dentro de un reactor nuclear genera reacciones en cadena descontroladas.
+
+
 ¿Cuál de los siguientes factores influye en la efectividad de la copa focalizadora?
 a.Corriente que alimenta el filamento✅
 b.Distancia existente entre el cátodo y el ánodo.
