@@ -469,7 +469,7 @@ e.La de Kvp variable, porque genera menor dosis en el paciente. \r
 \r
 ¿Qué cantidad de electrones y HU se generan al realizar una radiografía de abdomen que \r
 necesita 78 Kv, 300 mA y 0,04 seg?. \r
-a.7,49 x 10 19 electrones   - 1310,40 HU  .. 7,49x10 22 e 1310,40 HU\r
+a.7,49 x 10 19 electrones   - 1310,40 HU\r
 b.7,48 x 10 16 electrones.   -   1310,40 HU ✅\r
 c.1,05 x 1017 electrones   -   1310,40 HU \r
 d.5,83 x 10 18 electrones   -   936 HU \r
