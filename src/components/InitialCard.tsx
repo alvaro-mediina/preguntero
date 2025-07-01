@@ -61,11 +61,14 @@ function InitialCard({ Question }: InitialCardProps) {
                 setSubmitted(false);
                 setError("");    
                 }}
+                name="respuesta"
                 className="flex flex-col space-y-2"
             >
                 {answers.map(({ letter, text }) => (
                 <div key={`${letter}-${text}`} className="flex items-center space-x-3">
-                    <RadioGroupItem value={letter} id={`answer-${letter}`}
+                        <RadioGroupItem
+                            value={letter}
+                            id={`answer-${letter}`}
                             className="w-5 h-5 rounded-full border-2
                                     border-gray-300 cursor-pointer
                                     focus:outline-none focus:ring-2 focus:ring-green-400
